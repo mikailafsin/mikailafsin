@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikailafsin&label=Profile%20views&color=0e75b6&style=flat" alt="mikailafsin" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, Cyber Security**
 
 - 💬 Ask me about **Html, Css, Sass, Git**
 
