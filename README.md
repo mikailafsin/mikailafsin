@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mikailwnchstr@gmail.com**
 
-- ⚡ Fun fact **I'm still watching TWD.**
+- ⚡ I like to watch **Formula 1.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
